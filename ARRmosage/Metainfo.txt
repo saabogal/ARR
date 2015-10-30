@@ -13,7 +13,7 @@ See also : ARRmosagegr
 
 Author : Alona Zharova
 
-Example : Mosaic plot
-
-ARRmosage.csv : 'The data set contains the number of researchers who  
+Datafile : 'ARRmosage.csv - The data set contains the number of researchers who  
 are in one, two or all three rankings (HB, RP, GS)'
+
+Example : Mosaic plot
