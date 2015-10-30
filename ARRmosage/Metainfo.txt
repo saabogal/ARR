@@ -1,20 +1,19 @@
-Project : ARR - Academic Rankings Research
 
-Quantlet : ARRmosage
+Name of QuantLet : ARRmosage
+
+Published in: ARR - Academic Rankings Research
 
 Description : 'Produces the mosaic plot of number of 
-              researchers, when merging of Handelsblatt (HB), RePEc (RP)
-              and Google Scholar (GS) rankings takes place'   
+researchers, when merging of Handelsblatt (HB), 
+RePEc (RP) and Google Scholar (GS) rankings takes place'   
 
-Usage : ARRmosage
+Keywords : 'mosaic plot, multivariate, data visualization, analysis, discriptive methods'
 
-ARRmosage.csv : 'The data set contains the number of researchers who  
-                are in one, two or all three rankings (HB, RP, GS)'
-
-Output : Mosaic plot ("ARRmosage.pdf")
-
-Keywords : 'mosaic plot, multivariate, data visualization, analysis, 
-discriptive methods'
+See also : ARRmosagegr
 
 Author : Alona Zharova
 
+Example : Mosaic plot
+
+ARRmosage.csv : 'The data set contains the number of researchers who  
+are in one, two or all three rankings (HB, RP, GS)'
