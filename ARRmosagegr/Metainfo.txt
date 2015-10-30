@@ -1,15 +1,19 @@
-Project : ARR - Academic Rankings Research
 
-Quantlet : ARRmosagegr
+Name of QuantLet : ARRmosagegr
+
+Published in: 'ARR - Academic Rankings Research'
 
 Description : 'Produces the mosaic plot of Top-700 scientists of Handelsblatt (HB), RePEc (RP) 
 and Google Scholar (GS) each one'
 
-ARRmosagegr.csv : 'The data set contains the number of researchers of certain age classes who 
-are in HB, RP or GS'
+Keywords : 'mosaic plot, plot, multivariate, data visualization, visualization, analysis, 
+descriptive methods, graphical representation, descriptive statistics, descriptive, multivariate analysis '
 
-Output : Mosaic plot ("ARRmosagegr.pdf")
-
-Keywords : mosaic plot, plot, multivariate, data visualization, visualization, analysis, descriptive methods, graphical representation, descriptive statistics, descriptive, multivariate analysis
+See also : ARRmosage
 
 Author : Alona Zharova
+
+Datafile : 'ARRmosagegr.csv - The data set contains the number of researchers of certain age classes who 
+are in HB, RP or GS'
+
+Example: Mosaic plot
