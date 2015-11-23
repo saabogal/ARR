@@ -8,9 +8,9 @@ Description : 'Plots linear correlation between 43 score values of Handelsblatt
 The values are clustered.'
 
 Keywords : 'plot, correlation, correlation matrix, dependence, multivariate, 
-visualization, data visualization, analysis, discriptive methods'
+multivariate analysis, visualization, data visualization, analysis, discriptive methods'
 
-See also : ARRmosage, ARRmosagegr
+See also : ARRmosage, ARRmosagegr, ARRhexage
 
 Author : Alona Zharova
 

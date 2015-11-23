@@ -9,7 +9,7 @@ RePEc (RP) and Google Scholar (GS) rankings takes place'
 
 Keywords : 'mosaic plot, multivariate, data visualization, analysis, discriptive methods'
 
-See also : ARRmosagegr
+See also : ARRmosagegr, ARRcormer, ARRhexage
 
 Author : Alona Zharova
 

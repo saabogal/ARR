@@ -1,34 +1,29 @@
 # ------------------------------------------------------
-# Name of QuantLet: ARRcormer
-# ------------------------------------------------------ 
-# Published in: Academic Rankings Research
+#Name of QuantLet : ARRcormer
 # ------------------------------------------------------
-# Description: Plots linear correlation between 43 score values of HB, RePEc and repec in an upper triangular matrix. The values are clustered.
+#Published in : ARR - Academic Rankings Research
 # ------------------------------------------------------
-# Keywords: plot, correlation, correlation matrix, visualization, dependence, multivariate
+#Description : 'Plots linear correlation between 43 score values of Handelsblatt 
+#(HB), RePEc (RP) and Google Scholar (GS) rankings in an upper triangular matrix. 
+#The values are clustered.'
 # ------------------------------------------------------
-# See also: ARRreghb, ARRhexage, ARRhexhin, ARRhismer, ARRreghb, ARRmosage, ARRmosagegr
+#Keywords : 'plot, correlation, correlation matrix, dependence, multivariate, 
+#visualization, data visualization, analysis, discriptive methods'
 # ------------------------------------------------------
-# Author: Alona Zharova
+#See also : ARRmosage, ARRmosagegr
 # ------------------------------------------------------
-# Submitted: Alona Zharova, Marius Sterling 20151124
+#Author : Alona Zharova
 # ------------------------------------------------------
-# Datafile: ARRdata.csv
+#Submitted : Tue, November 24 2015 by Alona Zharova, Marius Sterling
 # ------------------------------------------------------
-# Input:  ARRdata.csv
-#           size - 3011 x 137
-#           rows - 3011 different researcher of either RePEc,
-#                     Handelsblatt ranking or both and their 
-#                     Google Scholar data
-#           columns - 137 = 42 columns Handelsblatt 
-#                         + 77 columns RePEc  
-#                         + 16 columns Google Scholar
-#                         +  2 columns age_combined and subject_fields
+#Datafile : 'ARRdata.csv - The data set contains different researcher (3011 rows) 
+#of either RePEc (77 columns), Handelsblatt (42 columns) ranking or both and 
+#their Google Scholar data (16 columns) as well as age and subject fields (2 colums)'
 # ------------------------------------------------------
-# Output:
+#Example : Correlation matrix
 # ------------------------------------------------------
-# Example:
-# ------------------------------------------------------
+
+
 
 # clear history
 rm(list = ls(all = TRUE))
