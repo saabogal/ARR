@@ -6,7 +6,6 @@ Published in : ARR - Academic Rankings Research
 Description : 'Produces hexagon plots between age and top ranking scores of 
 Handelsblatt (HB), RePEc (RP) and Google Scholar (GS) rankings'
 
-
 Keywords : 'plot, hexagon-plot, scatterplot, analysis, multivariate analysis, 
 multivariate, visualization, data visualization, counts, dependence, discriptive methods'
 
