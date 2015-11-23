@@ -1,0 +1,24 @@
+
+Name of QuantLet : ARRcormer
+
+Published in : ARR - Academic Rankings Research
+
+Description : 'Plots linear correlation between 43 score values of Handelsblatt 
+(HB), RePEc (RP) and Google Scholar (GS) rankings in an upper triangular matrix. 
+The values are clustered.'
+
+Keywords : 'plot, correlation, correlation matrix, dependence, multivariate, 
+visualization, data visualization, analysis, discriptive methods'
+
+See also : ARRmosage, ARRmosagegr
+
+Author : Alona Zharova
+
+Submitted : Tue, November 24 2015 by Alona Zharova, Marius Sterling
+
+Datafile : 'ARRdata.csv - The data set contains different researcher (3011 rows) 
+of either RePEc (77 columns), Handelsblatt (42 columns) ranking or both and 
+their Google Scholar data (16 columns) as well as age and subject fields (2 colums)'
+
+
+Example : Correlation matrix
