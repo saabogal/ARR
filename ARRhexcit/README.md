@@ -30,7 +30,7 @@ Example : Scatter plot, Hexagon plot
 ```
 
 <img src="ARRhexcitscat.png" width="350" />
-<img src="ARRhexcitbin.png" width="400" />
+<img src="ARRhexcitbin.png" width="420" />
 
 
 ```r
