@@ -96,4 +96,6 @@ png(file="ARRhexcitbin.png",width=7.75, height=6.75,units="in",res=res,family = 
   # color of hexagon depends on count it represents as greater counts as darker! 
 dev.off()
 
+cor(data1$rp_nb.cites_score,data1$gs_total_cites)
+
 ```
