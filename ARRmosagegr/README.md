@@ -1,7 +1,7 @@
 
-![http://quantnet.wiwi.hu-berlin.de/style/banner.png](http://quantnet.wiwi.hu-berlin.de/style/banner.png)
+![Q_banner](https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/banner.png)
 
-## ![qlogo](http://quantnet.wiwi.hu-berlin.de/graphics/quantlogo.png) **ARRmosagegr**
+## ![qlogo](https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/qloqo.png) **ARRmosagegr**
 
 ```yaml
 
@@ -15,7 +15,7 @@ and Google Scholar (GS) each one'
 Keywords : 'mosaic plot, plot, multivariate, data visualization, visualization, analysis, 
 descriptive methods, graphical representation, descriptive statistics, descriptive, multivariate analysis '
 
-See also : ARRmosage
+See also : ARRmosage, ARRhexage, ARRcormer
 
 Author : Alona Zharova
 
