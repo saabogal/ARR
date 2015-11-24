@@ -7,7 +7,8 @@ Description : 'Produces scatter and hexagon plots between the h-index score
 listed in RePEc (RP) and Google Scholar (GS) rankings'
 
 Keywords : 'plot, hexagon-plot, scatterplot, analysis, multivariate analysis, 
-multivariate, visualization, data visualization, counts, dependence, discriptive methods'
+multivariate, visualization, data visualization, counts, dependence, discriptive methods,
+correlation, correlation matrix'
 
 See also : ARRmosage, ARRmosagegr, ARRcormer, ARRhexage, ARRhexhin
 

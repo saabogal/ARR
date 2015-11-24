@@ -1,16 +1,17 @@
 
-Name of QuantLet : ARRhexcit
+Name of QuantLet : ARRhismer
 
 Published in : ARR - Academic Rankings Research
 
-Description : 'Produces scatter and hexagon plots between the number of citations 
-listed in RePEc (RP) and Google Scholar (GS) rankings'
+Description : 'Plots an image of 3 histograms one each of Handelsblatt (HB) common score, 
+RePEc (RP) total score and Google Scholar (GS) citations'
 
 Keywords : 'plot, hexagon-plot, scatterplot, analysis, multivariate analysis, 
 multivariate, visualization, data visualization, counts, dependence, discriptive methods,
-correlation, correlation matrix'
+histogram, distribution, density, graphical representation, estimation, smoothing, 
+descriptive, descriptive methods'
 
-See also : ARRmosage, ARRmosagegr, ARRcormer, ARRhexage
+See also : ARRmosage, ARRmosagegr, ARRcormer, ARRhexage, ARRhexcit, ARRhexhin
 
 Author : Alona Zharova
 
@@ -20,4 +21,4 @@ Datafile : 'ARRdata.csv - The data set contains different researcher (3011 rows)
 of either RePEc (77 columns), Handelsblatt (42 columns) ranking or both and 
 their Google Scholar data (16 columns) as well as age and subject fields (2 colums)'
 
-Example : Scatter plot, Hexagon plot
+Example : Histogram
