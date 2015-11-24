@@ -1,28 +1,3 @@
-# ------------------------------------------------------
-# Name of QuantLet: ARRhexage
-# ------------------------------------------------------ 
-# Published in: Academic Rankings Research
-# ------------------------------------------------------
-# Description: Produces hexagon plots between age and top ranking scores of 
-# Handelsblatt (HB), RePEc (RP) and Google Scholar (GS) rankings
-# ------------------------------------------------------
-# Keywords: plot, hexagon-plot, scatterplot, analysis, multivariate analysis, 
-# multivariate, visualization, data visualization, counts, dependence, 
-# discriptive methods
-# ------------------------------------------------------
-# See also: ARRcormer, ARRmosage, ARRmosagegr
-# ------------------------------------------------------
-# Author: Alona Zharova
-# ------------------------------------------------------
-# Submitted: Tue, November 24 2015 by Alona Zharova, Marius Sterling
-# ------------------------------------------------------
-# Datafile: 'ARRdata.csv - The data set contains different researcher (3011 rows) 
-# of either RePEc (77 columns), Handelsblatt (42 columns) ranking or both and 
-# their Google Scholar data (16 columns) as well as age and subject fields (2 colums)'
-# ------------------------------------------------------
-# Example: Hexagon plot
-# ------------------------------------------------------
-
 
 # Close windows and clear variables
 graphics.off()
