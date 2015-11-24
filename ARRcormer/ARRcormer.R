@@ -1,29 +1,3 @@
-# ------------------------------------------------------
-#Name of QuantLet : ARRcormer
-# ------------------------------------------------------
-#Published in : ARR - Academic Rankings Research
-# ------------------------------------------------------
-#Description : 'Plots linear correlation between 43 score values of Handelsblatt 
-#(HB), RePEc (RP) and Google Scholar (GS) rankings in an upper triangular matrix. 
-#The values are clustered.'
-# ------------------------------------------------------
-#Keywords : 'plot, correlation, correlation matrix, dependence, multivariate, 
-#visualization, data visualization, analysis, discriptive methods'
-# ------------------------------------------------------
-#See also : ARRmosage, ARRmosagegr
-# ------------------------------------------------------
-#Author : Alona Zharova
-# ------------------------------------------------------
-#Submitted : Tue, November 24 2015 by Alona Zharova, Marius Sterling
-# ------------------------------------------------------
-#Datafile : 'ARRdata.csv - The data set contains different researcher (3011 rows) 
-#of either RePEc (77 columns), Handelsblatt (42 columns) ranking or both and 
-#their Google Scholar data (16 columns) as well as age and subject fields (2 colums)'
-# ------------------------------------------------------
-#Example : Correlation matrix
-# ------------------------------------------------------
-
-
 
 # clear history
 rm(list = ls(all = TRUE))
@@ -31,7 +5,7 @@ graphics.off()
 
 # Settings
 font = "sans"  # Helvetica
-res = 300  # setting resolution of plot
+res  = 300  # setting resolution of plot
 
 # activating required packages, if they are not installed they first get installed
 libraries = c("corrplot")
@@ -43,8 +17,7 @@ lapply(libraries, library, quietly = TRUE, character.only = TRUE)
 # data input and selection of all score values (no rankings)
 data = read.csv2("ARRdata.csv", sep = ";", dec = ",", 
   header = T, stringsAsFactors = FALSE)
-data = data[!is.na(data$hb_comonscores) & !is.na(data$rp_author) & !is.na(data$gs_author), 
-  ]
+data = data[!is.na(data$hb_comonscores) & !is.na(data$rp_author) & !is.na(data$gs_author), ]
 data2 = data[, grepl(pattern = "hb_age|hb_comonscores", x = colnames(data)) | (grepl(pattern = "rp_", 
   x = colnames(data)) & grepl(pattern = "score", x = colnames(data))) | (grepl(pattern = "gs_total_cites|gs_h_index|gs_i_index", 
   x = colnames(data)))]
@@ -63,4 +36,3 @@ corrplot(mcor, type = "upper", order = "hclust", tl.col = "black")
 # 'hclust' hierarchical clustering, 'alphabet'= in alphabetical order!  tl.col:
 # color of the text labels!
 dev.off()
- 
