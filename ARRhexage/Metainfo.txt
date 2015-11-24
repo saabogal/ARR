@@ -17,6 +17,7 @@ Submitted : Tue, November 24 2015 by Alona Zharova, Marius Sterling
 
 Datafile : 'ARRdata.csv - The data set contains different researcher (3011 rows) 
 of either RePEc (77 columns), Handelsblatt (42 columns) ranking or both and 
-their Google Scholar data (16 columns) as well as age and subject fields (2 colums)'
+their Google Scholar data (16 columns) as well as age and subject fields (2 columns)'
 
 Example : Hexagon plot
+
