@@ -1,0 +1,27 @@
+
+Name of QuantLet : ARRreghb
+
+Published in : ARR - Academic Rankings Research
+
+Description : 'Computes a linear regression of Handelsblatt (HB) VWL Life Work ranking (Lw)
+ - X1 on VWL Current REsearchers (CR) - X2, VWL Under 40 (U40) - X3, BWL LW (X4), 
+BWL CR (X5) and BWL U40 (X6) from the HB data set.
+Plots the scatter plot with linear regression and qq-plot of HB VWL Lw (X1) on VWL CR (X2), 
+VWL U40 (X3), BWL LW (X4), BWL CR (X5) and BWL U40 (X6).'
+
+Keywords : 'plot, scatterplot, analysis, multivariate analysis, 
+multivariate, visualization, data visualization, dependence, discriptive methods,
+distribution, graphical representation, descriptive, descriptive methods, regression,
+linear, linear-regression, qq-plot, normal'
+
+See also : ARRmosage, ARRmosagegr, ARRcormer, ARRhexage, ARRhexcit, ARRhexhin, ARRhismer
+
+Author : Alona Zharova
+
+Submitted : Tue, November 24 2015 by Alona Zharova, Marius Sterling
+
+Datafile : 'ARRdata.csv - The data set contains different researcher (3011 rows) 
+of either RePEc (77 columns), Handelsblatt (42 columns) ranking or both and 
+their Google Scholar data (16 columns) as well as age and subject fields (2 columns)'
+
+Example : Linear regression, Scatter plot, QQ-plot
