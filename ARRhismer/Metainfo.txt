@@ -6,12 +6,12 @@ Published in : ARR - Academic Rankings Research
 Description : 'Plots an image of 3 histograms one each of Handelsblatt (HB) common score, 
 RePEc (RP) total score and Google Scholar (GS) citations'
 
-Keywords : 'plot, hexagon-plot, scatterplot, analysis, multivariate analysis, 
+Keywords : 'plot, scatterplot, analysis, multivariate analysis, 
 multivariate, visualization, data visualization, counts, dependence, discriptive methods,
 histogram, distribution, density, graphical representation, estimation, smoothing, 
-descriptive, descriptive methods'
+descriptive'
 
-See also : ARRmosage, ARRmosagegr, ARRcormer, ARRhexage, ARRhexcit, ARRhexhin
+See also : ARRmosage, ARRmosagegr, ARRcormer, ARRhexage, ARRhexcit, ARRhexhin, ARRreghb
 
 Author : Alona Zharova
 

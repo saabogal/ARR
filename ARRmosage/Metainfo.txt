@@ -7,11 +7,14 @@ Description : 'Produces the mosaic plot of number of
 researchers, when merging of Handelsblatt (HB), 
 RePEc (RP) and Google Scholar (GS) rankings takes place'   
 
-Keywords : 'mosaic plot, multivariate, data visualization, analysis, discriptive methods'
+Keywords : 'mosaic plot, multivariate, data visualization, analysis, discriptive methods, 
+graphical representation, discriptive, multivariate analysis, multivariate, '
 
-See also : ARRmosagegr, ARRcormer, ARRhexage
+See also : ARRmosagegr, ARRcormer, ARRhexage, ARRhexcit, ARRhexhin, ARRhismer, ARRreghb
 
 Author : Alona Zharova
+
+Submitted : Mon, June 08 2015 by Alona Zharova, Marius Sterling
 
 Datafile : 'ARRmosage.csv - The data set contains the number of researchers who  
 are in one, two or all three rankings (HB, RP, GS)'

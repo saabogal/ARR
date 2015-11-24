@@ -6,12 +6,15 @@ Published in: 'ARR - Academic Rankings Research'
 Description : 'Produces the mosaic plot of Top-700 scientists of Handelsblatt (HB), RePEc (RP) 
 and Google Scholar (GS) each one'
 
-Keywords : 'mosaic plot, plot, multivariate, data visualization, visualization, analysis, 
-descriptive methods, graphical representation, descriptive statistics, descriptive, multivariate analysis '
+Keywords : 'mosaic plot, plot, multivariate, data visualization, visualization, analysis,  
+descriptive methods, graphical representation, descriptive statistics, descriptive, multivariate analysis, 
+discriptive,  '
 
-See also : ARRmosage, ARRhexage, ARRcormer
+See also : ARRmosage, ARRcormer, ARRhexage, ARRhexcit, ARRhexhin, ARRhismer, ARRreghb
 
 Author : Alona Zharova
+
+Submitted : Mon, June 08 2015 by Alona Zharova, Marius Sterling
 
 Datafile : 'ARRmosagegr.csv - The data set contains the number of researchers of certain age classes who 
 are in HB, RP or GS'
