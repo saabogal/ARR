@@ -29,8 +29,8 @@ Example : Scatter plot, Hexagon plot
 
 ```
 
-<img src="ARRhexcitscat.png" width="400" />
-<img src="ARRhexcitbin.png" width="500" />
+<img src="ARRhexcitscat.png" width="350" />
+<img src="ARRhexcitbin.png" width="400" />
 
 
 ```r
