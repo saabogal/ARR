@@ -9,7 +9,7 @@ The values are clustered.'
 
 Keywords : 'plot, correlation, correlation matrix, dependence, multivariate, 
 multivariate analysis, visualization, data visualization, analysis, discriptive methods, 
-discriptive, graphical representation, dependence, '
+discriptive, graphical representation, dependence'
 
 See also : ARRmosage, ARRmosagegr, ARRhexage, ARRhexcit, ARRhexhin, ARRhismer, ARRreghb
 
