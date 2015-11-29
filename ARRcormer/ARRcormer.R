@@ -3,7 +3,7 @@
 rm(list = ls(all = TRUE))
 graphics.off()
 
-# Settings
+# settings
 font = "sans"  # Helvetica
 res  = 300  # setting resolution of plot
 
